@@ -1,3 +1,23 @@
+# Store Ratings App - Frontend
+
+A React frontend for a store rating system with role-based access control.
+
+## 🔑 **Login Credentials**
+
+**Admin Access:**
+- Email: `admin@example.com`
+- Password: `AdminPass123!`
+
+**User Access:**
+- Email: `john@example.com` / `sarah@example.com` / `mike@example.com`
+- Password: `UserPass123!`
+
+**Owner Access:**
+- Email: `owner1@example.com` / `owner2@example.com`
+- Password: `OwnerPass123!`
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
